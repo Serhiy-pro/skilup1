@@ -5,16 +5,16 @@ error_reporting(E_ALL);
 $number = (int)$_GET['p1'];
 
 
-//$x = 0;
-//if ($x == 1) {
-//echo 1;
-//}
-//if ($x == 2) {
-//echo 2;
-//}
-//if ($x == 3) {
-//echo 3;
-//}
+$x = 0;
+if ($x == 1) {
+echo 1;
+}
+if ($x == 2) {
+echo 2;
+}
+if ($x == 3) {
+echo 3;
+}
 
 
 //switch ($number) {
