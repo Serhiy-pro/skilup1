@@ -21,7 +21,7 @@ $task_manager = [
         'status' => 'postponed',
         'subtask' => [
             'sub_ID' => '2.1',
-            'sub_title' => 'Homework_2.2',
+            'sub_title' => 'Homework_2.1',
         ],
     ],
     [
@@ -33,7 +33,7 @@ $task_manager = [
         'status' => 'Not done',
         'subtask' => [
             'sub_ID' => '3.1',
-            'sub_title' => 'Homework_3.3',
+            'sub_title' => 'Homework_3.1',
         ],
     ],
 ];
