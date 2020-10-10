@@ -18,26 +18,5 @@ echo 3;
 }
 
 
-//switch ($number) {
-//    case 0:
-//    case $number < 0:
-//        echo 'Number is zero';
-//        break;
-//    case 1:
-//        echo 'Number is one';
-//        break;
-//    case 2:
-//        echo 'Number is two';
-//        break;
-//    case $number % 2 === 0:
-//        echo "Number {$number} is even";
-//        break;
-//    default:
-//        echo "Number {$number} is odd";
-//}
-
-//echo $number <= 0 ? "Number is zero" : ($number == 1 ? "Number is one" : "Number is two") ;
-
-//Homework_2//
 
 echo $number <= 0 ? "Number is zero" : ($number == 1 ? "Number is one" : ($number == 2 ? "Number is two" : ($number % 2 === 0 ? "Number {$number} is even" : "Number {$number} is odd")));
